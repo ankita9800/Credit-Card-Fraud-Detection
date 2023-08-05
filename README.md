@@ -6,4 +6,3 @@ Throughout the project, the team conducted an extensive evaluation of a large da
 
 In conclusion, this project serves as a comprehensive analysis of factors affecting loan repayment. By utilizing EDA techniques and visualization tools, it provides lenders and loan applicants with crucial information about risk assessment, loan expectations, and affordability. Understanding these factors can assist individuals in making sound financial decisions when applying for loans, ensuring a more secure and manageable borrowing experience.
 
-[Link to the HTML file](file:///Users/anki/Documents/NortheasternUniversity/Spring22/IE%206600%20-%20Comps%20and%20Viz/Week%205%20-%20Hackathon/IE6600_Sec03_Group5_Hackathon.html)
